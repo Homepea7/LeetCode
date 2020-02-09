@@ -1,1 +1,1 @@
-# LeetCode
+# LeetCode上面的一些简单代码，博客里面有介绍。
